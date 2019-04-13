@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc  xmlns="http://xml.sysmaker.tw/Schema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://xml.sysmaker.tw/Schema http://raw.sysmaker.tw/XSD/doc.xsd">
+  <chapter id="abc">
+    <title>title</title>
+    <para/>
+  </chapter>
+</doc>
