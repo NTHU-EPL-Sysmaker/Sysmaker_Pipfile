@@ -1,0 +1,5 @@
+<!ELEMENT doc     (chapter*)>
+<!ELEMENT chapter (title,para*)>
+<!ELEMENT title   (#PCDATA)>
+<!ELEMENT para    (#PCDATA)>
+<!ATTLIST chapter id ID #REQUIRED>
