@@ -4,9 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-flask = "==1.0.2"
+flask = "==1.0.2"    # for Sysmaker web
+flask-babel = "==0.12.2"    # for i18n
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "3.6.8"    # for docker
